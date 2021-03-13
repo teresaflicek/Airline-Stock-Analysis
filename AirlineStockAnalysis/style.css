@@ -1,0 +1,42 @@
+/* body{
+    background-color: rgb(123, 208, 248);
+}
+
+.col-lg-12{
+    position: static;
+    bottom: 0;
+    background-color: #eaeeec;
+    padding: 1%;
+}
+
+p{
+    padding: .6%;
+} */
+
+.col-md-12{
+    background-color: white;
+}
+
+h1 {
+    color: black;
+}
+
+.container{
+    position: relative;
+    background-color: rgb(241, 237, 237);
+    padding: 2%;
+  }
+
+.table{
+    overflow: scroll;
+    color: white;
+}
+
+p {
+    color: black;
+    padding: 1.2%;
+}
+
+.dropdown{
+    padding: 2%;
+}
