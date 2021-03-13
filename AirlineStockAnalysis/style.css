@@ -21,6 +21,11 @@ h1 {
     color: black;
 }
 
+h3 {
+    color: black;
+    padding: 1%;
+}
+
 .container{
     position: relative;
     background-color: rgb(241, 237, 237);
@@ -28,9 +33,22 @@ h1 {
   }
 
 .table{
-    overflow: scroll;
-    color: white;
+    width: 100%;
+    color: black;
 }
+
+.table-container {
+    position: relative;
+    background-color: rgb(228, 220, 220);
+    padding: 2%;
+    overflow-x: auto;
+}
+
+.container-fluid{
+    position: relative;
+    background-color: rgb(228, 220, 220);
+    padding: 2%;
+  }
 
 p {
     color: black;
@@ -39,4 +57,12 @@ p {
 
 .dropdown{
     padding: 2%;
+}
+
+img {
+    padding: 2%;
+}
+
+li {
+    color: black;
 }
