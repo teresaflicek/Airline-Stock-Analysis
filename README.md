@@ -19,9 +19,11 @@
   
   ![DAL_close _price_prediction](AirlineStockAnalysis/images/decisiontreeDAL.png)
   
-  The drastic spikes indicate there are still some problems with our methodology. It could also be related to the model as we found out that the linear regression model led to even weirder results. Take a look at this prediction for Delta airlines:
+  The drastic spikes indicate there are still some problems with our methodology. It could also be related to the model as we found out that the linear regression model led to even weirder results. Take a look at this prediction for Delta airlines using the linear regression model:
   
   ![DAL_close _price_prediction1](AirlineStockAnalysis/images/linearregressionDAL.png)
+  
+  
 
 
 
