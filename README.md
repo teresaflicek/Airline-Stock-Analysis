@@ -5,7 +5,7 @@
   
   In our final project, we decided to analyze stock data related to the top 6 flight companies to see where their stock may be in 65 days. 
   
-  The process started in Project
+  The process started in Project 2 where flight company stock data was cleaned and filtered. You can find this process [here](https://github.com/pmhu4242/Project_2/tree/main/Stock%20Market%20vs%20Covid).
 
 
 
