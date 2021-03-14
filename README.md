@@ -8,7 +8,7 @@
   The process started in Project 2 where flight company stock data was cleaned and filtered. You can find this process [here](https://github.com/pmhu4242/Project_2/tree/main/Stock%20Market%20vs%20Covid). Very basically, this involved changing column names, merging data sets and other minor fixes.
   
   We then used Plotly to visualize the current data:
-  ![title]("..\AirlineStockAnalysis\images\originalcloseUAL.png")
+  ![title]("../AirlineStockAnalysis\images\originalcloseUAL.png")
   
   
 
