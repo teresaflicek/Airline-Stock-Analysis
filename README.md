@@ -23,9 +23,14 @@
   
   ![DAL_close _price_prediction1](AirlineStockAnalysis/images/linearregressionDAL.png)
   
+  We are mainly highlighting Delta Airlines in this Readme however we have a few other predictions which can be found in this [link to our Dashboard!](https://teresaflicek.github.io/project3/AirlineStockAnalysis/)
   
+In the dashboard, you'll find two other airlines and our predictions as to how their stock price will change in the next 65 days.
 
+<h3> Conclusion </h3>
 
+Although our Machine Learning didn't work perfectly, it did give us insight into what it takes to create a successful (and useful) machine learning model. We also learned how to weave different languages like Python and Javascript into a single project. 
 
+And the most important conclusion of all: Buy airline stock now!
 
-[Link to Dashboard!](https://teresaflicek.github.io/project3/AirlineStockAnalysis/)
+(Disclaimer: Just because our machine learning models are spitting out predicitions, we aren't experts. Take our advice at your own risk and please be responsible with your investments.)
