@@ -11,6 +11,13 @@
 ![UAL_close _price](AirlineStockAnalysis/images/originalcloseUAL.png)
 ![DAL _price](AirlineStockAnalysis/images/originalcloseDAL.png)
   
+  <h3> Part 2: Machine Learning and Predicting </h3>
+  
+  We then used machine learning to predict the outcome of the stock price in 65 days. The process involved training our models (we used both a linear regression and a decision tree model). Our outcomes ended with a test score slightly above 50%. While ideal in the sense that the predicitions were better than a coin toss, we wanted a model that could predict with more certainty. In retrospect, we should've used a smaller chunk of data to predict so as to eliminate any major discrepancies that may have occurred with a larger data set. As well, this would help keep the predictions more up-to-date.
+  
+  Here is an example of a **somewhat** realistic predicition:
+  
+  ![UAL_close _price](AirlineStockAnalysis/images/decisiontreeDAL.png)
   
 
 
