@@ -1,6 +1,8 @@
 # project3
 
 ## Background
+<h3> Everybody wants to be ahead of stocks.. with Machine Learning, this is now (somewhat) possible! <h3>
+
 
 
 
