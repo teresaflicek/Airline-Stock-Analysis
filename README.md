@@ -21,7 +21,7 @@
   
   ![DAL_close _price_prediction1](AirlineStockAnalysis/images/linearregressionDAL.png)
   
-  We are mainly highlighting Delta Airlines in this Readme however we have a few other predictions which can be found in this [link to our Dashboard!](https://teresaflicek.github.io/project3/AirlineStockAnalysis/)
+  We are mainly highlighting Delta Airlines in this Readme however we have a few other predictions which can be found in this [link to our Dashboard!](https://teresaflicek.github.io/Airline-Stock-Analysis/AirlineStockAnalysis/)
   
 In the dashboard, you'll find two other airlines and our predictions as to how their stock price will change in the next 65 days.
 
